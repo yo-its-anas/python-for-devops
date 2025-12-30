@@ -1,0 +1,11 @@
+{
+    "EC2_Instances": [
+        {
+            "InstanceId": "i-0e4a631cbfaec8e31",
+            "State": "running"
+        }
+    ],
+    "S3_Buckets": [
+        "amzn-anas3-buck"
+    ]
+}
